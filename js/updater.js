@@ -30,4 +30,6 @@ function update() {
   output.innerText = date.toISOString();
 }
 
+export default update;
+
 // ???
